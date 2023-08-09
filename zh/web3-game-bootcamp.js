@@ -1,0 +1,82 @@
+export const web3_game_bootcamp = {
+  "web3.page.name": "Web3游戏开发集训营 | ChainIDE生态",
+  "web3.page.title": "Web3游戏开发集训营",
+  "web3.page.subtitle": "BUILD YOUR FIRST GAMING PROJECT",
+  "web3.page.date": "2021.12.10 —— 2022.01.07",
+  "web3.page.button.register": "registration",
+  "web3.page.button.view": "点击观看",
+
+  "web3.page.tag.master": "大咖分享",
+  "web3.page.tag.community": "优质社区",
+  "web3.page.tag.challenge": "极客挑战",
+  "web3.page.tag.award": "惊喜奖项",
+  "web3.page.game.bootcamp.desc": "由 <span class='blueText'>polygon</span> & <span class='blueText'>chainide</span> & <span class='blueText'>登链社区 </span> 联合主办,是专属于web3爱好者的思想盛宴.本次活动期望为web3游戏开发者打造一个具有理论分享、技术支持、资源对接三重功能的平台,帮助开发者能够创造出创新的,技术型的,用户友好的项目,共同驶向web3.0的星辰大海!",
+  "web3.game.sponsor.polygon": "Polygon作为区块链行业Web3时代的引领者，其愿景是成为全球第一且唯一的Layer2聚合器，致力于解决目前以太坊高拥堵、高gas的痛点。Polygon生态中有超3000+多样化dApp，涉及DEX、NFT、DeFi、GameFi等领域。Polygon提供PoS、Plasma、zkRollups、Optimistic Rollups、Validium、Hermez ZKEVM,  Polygon Miden, Polygon NightFall等多种Layer2技术解决方案，在保护系统和实现治理中发挥重要作用。",
+  "web3.game.sponsor.chainide": "ChainIDE是纯白矩阵自主研发的全球首个云端多链的区块链集成开发环境，支持包括FaceBook Diem、蚂蚁链、以太坊、微众银行FiscoBcos、Polygon、华为鲲鹏、趣链飞洛等知名区块链底层环境。ChainIDE提供云端编译功能，无需繁琐的安装设置，加速开发迭代速度，也是全球区块链开发者最大的流量入口.",
+  "web3.game.sponsor.dengchain": "登链社区是一个专注于区块链技术内容的开发者社区，汇聚了国内优质的区块链技术专家、文章、问答、文档等技术资源，社区用户超过130万，是国内区块链开发者们最喜爱的学习交流平台。",
+  "web3.game.sponsor.polygon.label": "Polygon",
+  "web3.game.sponsor.chainide.label": "ChainIDE",
+  "web3.game.sponsor.dengchain.label": "登链社区",
+
+  "web3.game.schedule": "日程安排",
+  "web3.game.schedule.start": "Web3训练营开幕式",
+  "web3.game.schedule.chainide": "ChainIDE开发快速启动",
+  "web3.game.schedule.polygonStart": "Polygon开发快速启动",
+  "web3.game.schedule.polygonUpgrade": "Polygon dApp的升级之道",
+  "web3.game.schedule.showcase": "游戏案例分享",
+  "web3.game.schedule.dappDemo": "dApp案例演示",
+  "web3.game.schedule.end": "Web3训练营闭幕式",
+
+  "web3.game.schedule.start.date": "December 10th,  20:00PM",
+  "web3.game.schedule.chainide.date": "December 11th,  20:00PM",
+  "web3.game.schedule.polygonStart.date": "December 12th,  20:00PM",
+  "web3.game.schedule.polygonUpgrade.date": "December 17th,  20:00PM",
+  "web3.game.schedule.showcase.date": "December 18th,  20:00PM",
+  "web3.game.schedule.dappDemo.date": "December 19th,  20:00PM",
+  "web3.game.schedule.end.date": "Janury 08th,  20:00PM",
+
+  "web3.game.schedule.start.content1": "开幕式 - Brian Seong, polygon中国开发负责人 ",
+  "web3.game.schedule.start.content1.time": "20:00 PM - 20:15 PM",
+  "web3.game.schedule.start.content2": "《从区块链到元宇宙》 - Brian Seong, polygon中国开发负责人",
+  "web3.game.schedule.start.content2.time": "20:15 PM - 21:00 PM",
+  "web3.game.schedule.start.content3": "《polygon项目介绍》 - cora, polygon南亚市场经理",
+  "web3.game.schedule.start.content3.time": "21:00 PM - 21:30 PM",
+
+  "web3.game.schedule.chainide.content1": "《ChainIDE:一款云端多链应用开发平台》 - 吴封涛, ChainIDE技术大使",
+  "web3.game.schedule.chainide.content1.time": "20:00 PM - 21:20 PM",
+  "web3.game.schedule.chainide.content2": "《沙盒游戏经济探索》 - 陶荣祺, 元宇宙资本合伙人",
+  "web3.game.schedule.chainide.content2.time": "21:20 PM - 22:00 PM",
+
+  "web3.game.schedule.polygonStart.content1": "《polygon开发showcase》 - brian seong, polygon中国开发负责人",
+  "web3.game.schedule.polygonStart.content1.time": "20:00 PM - 20:40 PM",
+
+  "web3.game.schedule.polygonUpgrade.content1": "《crust-polygon的存储方案》 - luke fan, crust亚洲开发负责人",
+  "web3.game.schedule.polygonUpgrade.content1.time": "20:00 PM - 20:40 PM",
+  "web3.game.schedule.polygonUpgrade.content2": "《chainlink-polygon的预言机方案》 - wally yu, chainlink解决方案架构师",
+  "web3.game.schedule.polygonUpgrade.content2.time": "20:40 PM - 21:20 PM",
+  "web3.game.schedule.polygonUpgrade.content3": "《the graph-polygon的数据查询方案》 - jerry, the graph社区技术支持",
+  "web3.game.schedule.polygonUpgrade.content3.time": "21:20 PM - 22:00 PM",
+
+  "web3.game.schedule.showcase.content1": "《Aavegotchi的元宇宙设想》 - coder dan, Aavegotchi联合创始人",
+  "web3.game.schedule.showcase.content1.time": "20:00 PM - 21:00 PM",
+  "web3.game.schedule.showcase.content2": "《dark forest生态分享》 - ddy, dfarchon小组组长",
+  "web3.game.schedule.showcase.content2.time": "21:00 PM - 22:00 PM",
+
+  "web3.game.schedule.dappDemo.content1": "《全栈DAO workshop》 - timy熊, 登链社区创始人",
+  "web3.game.schedule.dappDemo.content1.time": "20:00 PM - 21:00 PM",
+  "web3.game.schedule.dappDemo.content2": "《全栈NFT市场》 - ddy, dfarchon小组组长",
+  "web3.game.schedule.dappDemo.content2.time": "21:00 PM - 22:00 PM",
+
+  "web3.game.schedule.end.content1": "《黑客松活动闭幕式》 - brian seong, polygon中国开发负责人 / blair, chainIDE商务总监",
+  "web3.game.schedule.end.content1.time": "20:00 PM - 22:00 PM",
+
+  "web3.game.award.project": "获奖项目",
+  "web3.game.award.project.lst": "Five Sins",
+  "web3.game.award.project.2nd": "Taishang World Generator",
+  "web3.game.award.project.3rd": "Random Survivor",
+  "web3.game.award.project.3rd.2": "Millionaire on Polygon",
+  "web3.game.award.project.best": "最佳大学生项目",
+  "web3.game.award.project.best.under-graduate": "Witness-Couple NFT",
+
+  "web3.game.partners": "合作伙伴"
+}

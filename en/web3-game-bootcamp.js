@@ -1,0 +1,82 @@
+export const web3_game_bootcamp = {
+  "web3.page.name": "Web3 Game Development Bootcamp | ChainIDE Ecosystem",
+  "web3.page.title": "Web3 Game Development Bootcamp",
+  "web3.page.subtitle": "BUILD YOUR FIRST GAMING PROJECT",
+  "web3.page.date": "2021.12.10 —— 2022.01.07",
+  "web3.page.button.register": "registration",
+  "web3.page.button.view": "view",
+
+  "web3.page.tag.master": "Industry Experts",
+  "web3.page.tag.community": "Premium Communities",
+  "web3.page.tag.challenge": "Geek Challenges",
+  "web3.page.tag.award": "Rich Bounty",
+  "web3.page.game.bootcamp.desc": "The event was co-hosted by <span class='blueText'>Polygon</span>, <span class='blueText'>ChainIDE</span>, and <span class='blueText'>the Denglian Community</span>, and it proved to be a feast for the minds of web3 enthusiasts. Furthermore, Bootcamp created a platform for Web 3.0 game developers, the platform helps in technical support and resource sharing, allowing developers to create innovative, technical, and user-friendly projects, and help continue to make progress in the field of Web 3.0!",
+  "web3.game.sponsor.polygon": "As the leader of the Web3 era in the blockchain industry, Polygon's vision is to become the world's first and only Layer 2 aggregator, dedicated to solving the current pain points of Ethereum's high congestion and high gas. There are over 3000+ dApps in the Polygon ecosystem, involving DEX, NFT, DeFi, GameFi and other fields. Polygon provides various Layer 2 technology solutions such as PoS, Plasma, zkRollups, Optimistic Rollups, Validium, Hermez ZKEVM, Polygon Miden, Polygon NightFall, etc., which play an important role in securing the system and achieving governance.",
+  "web3.game.sponsor.chainide": "ChainIDE is the world's first cloud-based multi-chain blockchain integrated development environment developed by White Matrix. It supports multiple blockchains including  FaceBook Diem, Ant Chain, Ethereum, WeBank, FiscoBcos, Polygon, Huawei Kunpeng, Dfinity, Conflux, FISCO BCOS, Nervos, Flow, and BNB Chain. ChainIDE provides a cloud-based compilation function without tedious installation settings, accelerating the speed of development iteration, and is also the largest traffic portal for global blockchain developers. ",
+  "web3.game.sponsor.dengchain": "Denglian Community is a developer community focusing on blockchain technology content. It brings together high-quality blockchain technology experts, articles, Q&A, documents, and other technical resources in China. The community has more than 1.3 million users and most of them are domestic blockchain developers. Denglian Community is known as everyone’s favorite learning platform.",
+  "web3.game.sponsor.polygon.label": "Polygon",
+  "web3.game.sponsor.chainide.label": "ChainIDE",
+  "web3.game.sponsor.dengchain.label": "Denglian Community",
+
+  "web3.game.schedule": "Schedule",
+  "web3.game.schedule.start": "Opening Ceremony",
+  "web3.game.schedule.chainide": "Deep Dive into GameFi Development with ChainIDE",
+  "web3.game.schedule.polygonStart": "Get Started with Application Development on Polygon",
+  "web3.game.schedule.polygonUpgrade": "Ways to Level Up Your Polygon dApp Development",
+  "web3.game.schedule.showcase": " GameFi Showcases",
+  "web3.game.schedule.dappDemo": "Demonstration of Selected Projects",
+  "web3.game.schedule.end": "Closing Ceremony",
+
+  "web3.game.schedule.start.date": "December 10th,  20:00PM",
+  "web3.game.schedule.chainide.date": "December 11th,  20:00PM",
+  "web3.game.schedule.polygonStart.date": "December 12th,  20:00PM",
+  "web3.game.schedule.polygonUpgrade.date": "December 17th,  20:00PM",
+  "web3.game.schedule.showcase.date": "December 18th,  20:00PM",
+  "web3.game.schedule.dappDemo.date": "December 19th,  20:00PM",
+  "web3.game.schedule.end.date": "Janury 08th,  20:00PM",
+
+  "web3.game.schedule.start.content1": "Event Introduction - Brian Seong, Polygon Dev Rel China Lead",
+  "web3.game.schedule.start.content1.time": "20:00 PM - 20:15 PM",
+  "web3.game.schedule.start.content2": "《From Blockchain to Metaverse》 - Brian Seong, Polygon Dev Rel China Lead",
+  "web3.game.schedule.start.content2.time": "20:15 PM - 21:00 PM",
+  "web3.game.schedule.start.content3": "《Polygon Introduction》 - Cora, South Asia Marketing Manager",
+  "web3.game.schedule.start.content3.time": "21:00 PM - 21:30 PM",
+
+  "web3.game.schedule.chainide.content1": "《ChainIDE: A Cross-Platform Smart-Contract IDE for Polygon》 - Fengtao WU, ChainIDE Technology Ambassador",
+  "web3.game.schedule.chainide.content1.time": "20:00 PM - 21:20 PM",
+  "web3.game.schedule.chainide.content2": "《Sandbox Game Economic Exploration》 - Tao Rongqi, Partner of Metauniverse Capital",
+  "web3.game.schedule.chainide.content2.time": "21:20 PM - 22:00 PM",
+
+  "web3.game.schedule.polygonStart.content1": "《Polygon Dev Introduction》 - Brian Seong, Polygon Dev Rel China Lead",
+  "web3.game.schedule.polygonStart.content1.time": "20:00 PM - 20:40 PM",
+
+  "web3.game.schedule.polygonUpgrade.content1": "《Crust - Storage on Polygon》 - Luke Fan, Crust Asian Dev lead",
+  "web3.game.schedule.polygonUpgrade.content1.time": "20:00 PM - 20:40 PM",
+  "web3.game.schedule.polygonUpgrade.content2": "《Chainlink - Oracle on Polygon》 - Wally Yu, ChainLink Solution Architect",
+  "web3.game.schedule.polygonUpgrade.content2.time": "20:40 PM - 21:20 PM",
+  "web3.game.schedule.polygonUpgrade.content3": "《The Graph - Data Query on Polygon》 - Jerry, The Graph Community Technical Support",
+  "web3.game.schedule.polygonUpgrade.content3.time": "21:20 PM - 22:00 PM",
+
+  "web3.game.schedule.showcase.content1": "《Introduction of Aavegochi》 - Coder Dan, Aavegochi Co-founder",
+  "web3.game.schedule.showcase.content1.time": "20:00 PM - 21:00 PM",
+  "web3.game.schedule.showcase.content2": "《Dark Forest Ecosystem》 - ddy, Dfarchon Team Lead",
+  "web3.game.schedule.showcase.content2.time": "21:00 PM - 22:00 PM",
+
+  "web3.game.schedule.dappDemo.content1": "《Full Stack DAO workshop by Denglian》 - Tiny Xiong, Denglian Community Initiator》",
+  "web3.game.schedule.dappDemo.content1.time": "20:00 PM - 21:00 PM",
+  "web3.game.schedule.dappDemo.content2": "《Full Stack NFT Marketplace by CedgeDAO》 - ddy, Dfarchon Team Lead",
+  "web3.game.schedule.dappDemo.content2.time": "21:00 PM - 22:00 PM",
+
+  "web3.game.schedule.end.content1": "《Hackathon Conclusion Event》 - Brian Seong, Polygon Dev Rel China Lead / Blair, ChainIDE CBO",
+  "web3.game.schedule.end.content1.time": "20:00 PM - 22:00 PM",
+
+  "web3.game.award.project": "Award Winning Projects",
+  "web3.game.award.project.lst": "Five Sins",
+  "web3.game.award.project.2nd": "Taishang World Generator",
+  "web3.game.award.project.3rd": "Random Survivor",
+  "web3.game.award.project.3rd.2": "Millionaire on Polygon",
+  "web3.game.award.project.best": "Best Under-graduate Project",
+  "web3.game.award.project.best.under-graduate": "Witness-Couple NFT",
+
+   "web3.game.partners": "Our Partners"
+}

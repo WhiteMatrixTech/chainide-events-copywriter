@@ -4,6 +4,7 @@ import { events_homepage } from './events-homepage';
 import { events_bootcamp } from './events-bootcamp';
 import { events_hackathon } from './events-hackathon';
 import { events_workshop_seminar } from './events-workshop-seminar';
+import { events_developer_summit } from './events-developer-summit';
 
 export const zh = {
   header: {
@@ -157,4 +158,5 @@ export const zh = {
   ...events_bootcamp,
   ...events_hackathon,
   ...events_workshop_seminar,
+  ...events_developer_summit,
 };

@@ -35,15 +35,92 @@ export const events_homepage = {
 
     bootcampTitle: '训练营',
     bootcampContent: 'ChainIDE训练营致力于构建一个技术交流平台，为全球区块链开发者提供帮助，帮助初学者从入门到高级阶段实现突破。',
+    bootcampList: [
+      {
+        image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',
+        title: 'META Web3 Builder Competition',
+        content: 'META Web3 Builder Competition活动是一场跨地域的线上技术盛会，覆盖所有META地区国家，在一个月内为中东、土耳其、非洲等地区的开发者提供免费区块链培训课程，内容涉及 Web3 理论、基础设施、开发工具、数字藏品、投资生态等多个主题模块，全方位提升开发者对区块链应用的认知和开发能力。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/NFTBuilderCompetition.png',
+        title: 'NFT Builder Competition',
+        content: 'NFT Builder Competition是一次NFT行业建设者的线上盛会，鼓励来自全球各地的NFT产业建设者进行融合交流，一起建设。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/HydraDeveloperBootcamp.png',
+        title: 'Conflux Labs X ChainIDE: Hydra Developer Bootcamp',
+        content: 'Hydra Developer Bootcamp活动致力于为“一带一路”非洲国家开发者们搭建高质、纯粹的培训平台，为非洲国家培训一批懂技术懂开发的实用型区块链行业人才。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',
+        title: 'Binance Smart Chain & ChainIDE Developer Bootcamp',
+        content: 'BSC&ChainIDE Developer Bootcamp期望为初级开发者以及区块链爱好者们打造沉浸式Dapp开发体验，与全球开发者一起用激情与热爱挑战自我、谱写未来。',
+      },
+    ],
 
     hackathonTitle: '黑客松',
     hackathonContent: 'ChainIDE的黑客马拉松活动聚集了社区中最活跃的开发者，以短时间内进行有趣的编程创作，旨在拓展区块链生态系统。',
+    hackathonList: [
+      {
+        image: 'https://media.chainide.com/events/hackathon/EthHackthon.png',
+        title: 'ETH Hackathon',
+        date: '2021.05.14 - 2021.05.16',
+        content: 'ETH黑客松以“开放、自由、增量”为主题，黑客们需在48小时内构建出基于以太坊的产品原型，活动旨在繁荣以太坊开发者生态。',
+        weChat1: 'https://mp.weixin.qq.com/s/Gi_aalqRBf7DVnjXsx4HPQ',
+        weChat2: 'https://mp.weixin.qq.com/s/1RJagdcCV1lnvSuu2rPYZA',
+        weChat3: 'https://mp.weixin.qq.com/s/6ymSKVY-LLwwqMzT3qx4WA',
+      },
+    ],
 
     workshopSeminarTitle: '研讨会',
     workshopSeminarContent: 'ChainIDE的研讨会致力于向公众普及区块链的深层理论和技术知识，与行业内部专家讨论区块链的发展趋势，推动区块链生态系统的创新和发展。',
+    workshopSeminarList: [
+      {
+        image: 'https://media.chainide.com/events/seminar/SurvivalGuild.png',
+        title: 'Survival Guide for Web3 Immigrants Webinar',
+        content: 'Survival Guide for Web3 Immigrants网络研讨会邀请了香港中文大学（深圳）教授蔡玮、ChainIDE海外社区经理Ali以及RSS3社区经理Ping分享他们对Web3世界的探索与思考。',
+      },
+      {
+        image: 'https://media.chainide.com/events/seminar/GlobalMetaverseAndNFT.png',
+        title: 'Global Metaverse and NFT Webinar',
+        content: '2022 Global Metaverse and NFT Webinar聚焦于Metaverse、NFT、Defi等多个话题的学术讨论，邀请了纽约大学Marc Beckman教授、加拿大英属哥伦比亚大学王泽华教授以及纯白矩阵CEO吴啸共同探讨相关课题。',
+      },
+      {
+        image: 'https://media.chainide.com/events/seminar/PakistaniCommunity.png',
+        title: 'Everything you need to know about NFT Webinar — Pakistani Community',
+        content: '以“关于 NFT 你需要知道的一切”为主题的巴基斯坦社区网络研讨会于2021.08.25举行，超过200名巴基斯坦区块链爱好者参加了此次研讨会，现场讨论氛围热烈。',
+      },
+      {
+        image: 'https://media.chainide.com/events/seminar/BMDS.png',
+        title: 'Blockchain and Multimedia Data Science (BMDS) Webinar',
+        content: '2021BMDS区块链多媒体数据科学网络研讨会由阿尔伯塔大学与南京纯白矩阵科技有限公司联合主办，主要围绕区块链与数据科学领域的交叉融合进行深度探讨。',
+      },
+    ],
 
     developerSummitTitle: '开发者峰会',
     developerSummitContent: '这些峰会和会议将我们的团队成员与来自不同领域和领域的开发者、专业人士和行业领袖汇聚在一起。他们与全球科技行业的杰出思想领袖一起积极参与讨论，为各自专业领域传授独特的见解和经验。',
+    developerSummitList: [
+      {
+        image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',
+        title: 'META Web3 Builder Competition',
+        content: 'META Web3 Builder Competition活动是一场跨地域的线上技术盛会，覆盖所有META地区国家，在一个月内为中东、土耳其、非洲等地区的开发者提供免费区块链培训课程，内容涉及 Web3 理论、基础设施、开发工具、数字藏品、投资生态等多个主题模块，全方位提升开发者对区块链应用的认知和开发能力。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/NFTBuilderCompetition.png',
+        title: 'NFT Builder Competition',
+        content: 'NFT Builder Competition是一次NFT行业建设者的线上盛会，鼓励来自全球各地的NFT产业建设者进行融合交流，一起建设。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/HydraDeveloperBootcamp.png',
+        title: 'Conflux Labs X ChainIDE: Hydra Developer Bootcamp',
+        content: 'Hydra Developer Bootcamp活动致力于为“一带一路”非洲国家开发者们搭建高质、纯粹的培训平台，为非洲国家培训一批懂技术懂开发的实用型区块链行业人才。',
+      },
+      {
+        image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',
+        title: 'Binance Smart Chain & ChainIDE Developer Bootcamp',
+        content: 'BSC&ChainIDE Developer Bootcamp期望为初级开发者以及区块链爱好者们打造沉浸式Dapp开发体验，与全球开发者一起用激情与热爱挑战自我、谱写未来。',
+      },
+    ],
   },
 
   starProjects: {

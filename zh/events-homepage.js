@@ -46,6 +46,10 @@ export const events_homepage = {
     developerSummitContent: '这些峰会和会议将我们的团队成员与来自不同领域和领域的开发者、专业人士和行业领袖汇聚在一起。他们与全球科技行业的杰出思想领袖一起积极参与讨论，为各自专业领域传授独特的见解和经验。',
   },
 
+  starProjects: {
+    startProjectsTitle: '明星项目',
+  },
+
   keyStrengths: {
     keyStrengthsTitle: '核心优势',
     keyStrengthsList: [
@@ -70,5 +74,54 @@ export const events_homepage = {
         content: '我们致力于构建和扩展全球开发者生态系统。在ChainIDE的引导下，将您的创意转化为现实，踏上Web3创新之旅！',
       },
     ],
+  },
+
+  youWillGet: {
+    youWillGetTitle: '你将获得',
+    youWillGetList: [
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-1.png',
+        title: '进入顶级资本风险投资的机会',
+        content: 'ChainIDE已与领先的风险投资公司建立了稳固的合作关系，使我们的开发者能够获得一流的投资机会。',
+      },
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-2.png',
+        title: '与全球顶尖大学建立联系',
+        content: 'ChainIDE链接全球顶尖大学的生态资源，打破企业与大学之间的障碍，不断探索与大学的新型合作模式。',
+      },
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-3.png',
+        title: '连接全球区块链生态系统',
+        content: 'ChainIDE的目标是通过开发者打破沟通障碍，创建一个国际化的区块链技术社区，构建全球区块链开发者生态系统。',
+      },
+    ],
+  },
+
+  partners: {
+    partnersTitle: '合作伙伴',
+    partnersList: [
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/matrix-world.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/hashkey.svg',
+      'https://media.chainide.com/events/partners/flow.svg',
+      'https://media.chainide.com/events/partners/bnbChain.svg',
+      'https://media.chainide.com/events/partners/conflux.svg',
+      'https://media.chainide.com/events/partners/polygon.svg',
+      'https://media.chainide.com/events/partners/mask.svg',
+      'https://media.chainide.com/events/partners/lion.svg',
+      'https://media.chainide.com/events/partners/ubc.svg',
+      'https://media.chainide.com/events/partners/thuba.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/theirsverse.svg',
+    ],
+  },
+
+  joinUs: {
+    joinUsTitle: '加入我们',
+    joinUsContent: '我们致力于构建和扩展全球开发者生态系统。与我们联系，启程创新之旅！',
   },
 };

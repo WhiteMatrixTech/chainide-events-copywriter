@@ -48,6 +48,10 @@ export const events_homepage = {
     developerSummitContent: 'These summits and conferences unite our team members with developers, professionals, and industry leaders representing diverse sectors and domains. They actively participate in discussions alongside the foremost thought leaders in the global tech industry, imparting their distinctive insights and experiences within their respective areas of expertise.',
   },
 
+  starProjects: {
+    startProjectsTitle: 'Star Projects',
+  },
+
   keyStrengths: {
     keyStrengthsTitle: 'Key Strengths',
     keyStrengthsList: [
@@ -72,5 +76,55 @@ export const events_homepage = {
         content: 'We are committed to the construction and expansion of the global developer ecosystem. Transforming your ideas into reality with ChainIDE，embark on the Web3 journey of innovation！',
       },
     ],
+  },
+
+  youWillGet: {
+    youWillGetTitle: '明星项目',
+
+    youWillGetList: [
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-1.png',
+        title: 'Providing Access to Top-rated Capital Ventures',
+        content: 'ChainIDE has forged a robust collaboration with leading venture capital firms, enabling our developers to gain access to premier investment opportunities.',
+      },
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-2.png',
+        title: 'Linking with Top Universities Worldwide',
+        content: 'We link the ecosystem resources of top universities worldwide, break the barriers between enterprises and universities, and constantly explore new styles of cooperation with universities.',
+      },
+      {
+        image: 'https://media.chainide.com/events/youWillGet-image-3.png',
+        title: 'Connecting to the Worldwide Blockchain Ecosystem',
+        content: 'We aim to break the barriers of communications through developers, create an international blockchain technology community, and build a global blockchain developer ecosystem.',
+      },
+    ],
+  },
+
+  partners: {
+    partnersTitle: 'Partners',
+    partnersList: [
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/matrix-world.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/hashkey.svg',
+      'https://media.chainide.com/events/partners/flow.svg',
+      'https://media.chainide.com/events/partners/bnbChain.svg',
+      'https://media.chainide.com/events/partners/conflux.svg',
+      'https://media.chainide.com/events/partners/polygon.svg',
+      'https://media.chainide.com/events/partners/mask.svg',
+      'https://media.chainide.com/events/partners/lion.svg',
+      'https://media.chainide.com/events/partners/ubc.svg',
+      'https://media.chainide.com/events/partners/thuba.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/ezek.svg',
+      'https://media.chainide.com/events/partners/theirsverse.svg',
+    ],
+  },
+
+  joinUs: {
+    joinUsTitle: 'Join Us',
+    joinUsContent: 'We are committed to the construction and expansion of the global developer ecosystem. Contact us, embark on a journey of innovation!',
   },
 };

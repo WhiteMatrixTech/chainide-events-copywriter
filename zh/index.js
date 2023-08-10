@@ -2,6 +2,8 @@ import { eth_hackathon } from './eth-hackathon';
 import { web3_game_bootcamp } from './web3-game-bootcamp';
 import { events_homepage } from './events-homepage';
 import { events_bootcamp } from './events-bootcamp';
+import { events_hackathon } from './events-hackathon';
+import { events_workshop_seminar } from './events-workshop-seminar';
 
 export const zh = {
   header: {
@@ -153,4 +155,6 @@ export const zh = {
   ...web3_game_bootcamp,
   ...events_homepage,
   ...events_bootcamp,
+  ...events_hackathon,
+  ...events_workshop_seminar,
 };

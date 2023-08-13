@@ -18,6 +18,158 @@ export const en = {
     workshopSeminar: 'Workshop & Seminar',
     developerSummit: 'Developer Summit',
   },
+  footer: {
+    footerMediaList: [
+      {
+        name: 'medium',
+        link: '',
+      },
+      {
+        name: 'github',
+        link: '',
+      },
+      {
+        name: 'facebook',
+        link: '',
+      },
+      {
+        name: 'twitter',
+        link: '',
+      },
+      {
+        name: 'telegram',
+        link: '',
+      },
+      {
+        name: 'youtube',
+        link: '',
+      },
+      {
+        name: 'discord',
+        link: '',
+      },
+    ],
+    footerList: [
+      {
+        title: 'Learn',
+        contentList: [
+          {
+            name: 'Tutorial',
+            link: '',
+          },
+          {
+            name: 'Course',
+            link: '',
+          },
+          {
+            name: 'Build',
+            link: '',
+          },
+          {
+            name: 'Studio',
+            link: '',
+          },
+          {
+            name: 'Extensions',
+            link: '',
+          },
+        ],
+      },
+      {
+        title: 'Events',
+        contentList: [
+          {
+            name: 'Bootcamp',
+            link: '',
+          },
+          {
+            name: 'Hackathon',
+            link: '',
+          },
+          {
+            name: 'Workshop',
+            link: '',
+          },
+          {
+            name: 'Seminar',
+            link: '',
+          },
+          {
+            name: 'Summit',
+            link: '',
+          },
+        ],
+      },
+      {
+        title: 'Community',
+        contentList: [
+          {
+            name: 'Forum',
+            link: '',
+          },
+          {
+            name: 'Discord',
+            link: '',
+          },
+          {
+            name: 'Twitter',
+            link: '',
+          },
+          {
+            name: 'Telegram',
+            link: '',
+          },
+          {
+            name: 'Facebook',
+            link: '',
+          },
+        ],
+      },
+      {
+        title: 'Resources',
+        contentList: [
+          {
+            name: 'Blog',
+            link: '',
+          },
+          {
+            name: 'Guides',
+            link: '',
+          },
+          {
+            name: 'Docs',
+            link: '',
+          },
+          {
+            name: 'Videos',
+            link: '',
+          },
+          {
+            name: 'Open Source Code',
+            link: '',
+          },
+        ],
+      },
+      {
+        title: 'Company',
+        contentList: [
+          {
+            name: 'About Us',
+            link: '',
+          },
+          {
+            name: 'Contact Us',
+            link: '',
+          },
+        ],
+      },
+    ],
+
+    footerContent1: '© 2023 White Matrix Ltd. | All rights reserved',
+
+    footerContent2: 'Terms of Use',
+    footerContent3: 'Privacy Policy',
+  },
   hero: {
     desc: 'ChainIDE is committed to the construction and expansion of the global developer ecosystem.',
     contact: 'Contact Us',

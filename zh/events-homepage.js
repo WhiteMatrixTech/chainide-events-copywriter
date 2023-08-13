@@ -29,6 +29,36 @@ export const events_homepage = {
 
   upcomingEvents: {
     title: '活动预告',
+    upcomingEventsList: [
+      {
+        title: 'ETH Riyadh 2023',
+        content: 'Eth Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future.',
+        tabContent: 'Develop summit',
+        tabColor: '#3BA1FF',
+        date: '2023.10.7-2023.10.11',
+        sites: 'Singapore',
+        image: 'https://media.chainide.com/events/riyadh-summit.png',
+      },
+      {
+        title: 'Web3 Builder Mixer - EP5',
+        content: '"Web3 builder Mixer" is an exciting platform that seeks to inspire and support the growth of the Web3 ecosystem to foster collaboration, innovation, and knowledge-sharing among local developers.',
+        tabContent: 'Bootcamp',
+        tabColor: '#EC6DA5',
+        date: 'Feb 20, 2023 - Jun 1, 2023',
+        sites: 'Online',
+        image: 'https://media.chainide.com/events/riyadh-summit.png',
+      },
+      {
+        title: '3. ChainIDE Workshop EP3',
+        content: 'Code Sage Functionality Update - Introducing function "Code Generation".',
+        tabContent: 'Develop summit',
+        tabColor: '#3BA1FF',
+        date: 'Feb 20, 2023 - Jun 1, 2023',
+        sites: 'Online',
+        image: 'https://media.chainide.com/events/riyadh-summit.png',
+      },
+    ],
+
     eventsTitle1: 'ChainIDE活动',
     eventsTitle2: '孕育更多灵感',
     tabList: ['训练营', '黑客松', '研讨会', '开发者峰会'],

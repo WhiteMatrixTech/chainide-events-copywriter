@@ -68,7 +68,7 @@ export const zh = {
           },
           {
             name: 'Studio',
-            link: '',
+            link: 'https://chainide.com',
           },
           {
             name: 'Extensions',
@@ -81,23 +81,23 @@ export const zh = {
         contentList: [
           {
             name: 'Bootcamp',
-            link: '',
+            link: `${window.location.origin}/events/bootcamp`,
           },
           {
             name: 'Hackathon',
-            link: '',
+            link: `${window.location.origin}/events/hackathon`,
           },
           {
             name: 'Workshop',
-            link: '',
+            link: `${window.location.origin}/events/workshop-seminar`,
           },
           {
             name: 'Seminar',
-            link: '',
+            link: `${window.location.origin}/events/workshop-seminar`,
           },
           {
             name: 'Summit',
-            link: '',
+            link: `${window.location.origin}/events/developer-summit`,
           },
         ],
       },
@@ -106,23 +106,23 @@ export const zh = {
         contentList: [
           {
             name: 'Forum',
-            link: '',
+            link: 'https://forum.chainide.com/',
           },
           {
             name: 'Discord',
-            link: '',
+            link: 'https://discord.com/invite/qv8M29pYwX',
           },
           {
             name: 'Twitter',
-            link: '',
+            link: 'https://twitter.com/ChainIde',
           },
           {
             name: 'Telegram',
-            link: '',
+            link: 'https://t.me/ChainIDEdevelopers',
           },
           {
             name: 'Facebook',
-            link: '',
+            link: 'https://www.facebook.com/MatrixDapp/',
           },
         ],
       },
@@ -131,23 +131,23 @@ export const zh = {
         contentList: [
           {
             name: 'Blog',
-            link: '',
+            link: 'https://medium.com/white-matrix',
           },
           {
             name: 'Guides',
-            link: '',
+            link: 'https://chainide.gitbook.io/chainide-chinese/chainide/1.-ethereum-ide',
           },
           {
             name: 'Docs',
-            link: '',
+            link: 'https://chainide.gitbook.io/chainide-english-1/',
           },
           {
             name: 'Videos',
-            link: '',
+            link: 'https://www.youtube.com/channel/UCgvPUHayWfxAGiJCI2xOzNg',
           },
           {
             name: 'Open Source Code',
-            link: '',
+            link: 'https://github.com/WhiteMatrixTech',
           },
         ],
       },
@@ -156,7 +156,7 @@ export const zh = {
         contentList: [
           {
             name: 'About Us',
-            link: '',
+            link: 'https://whitematrix.io/?lang=en',
           },
           {
             name: 'Contact Us',
@@ -171,6 +171,8 @@ export const zh = {
     footerContent2: 'Terms of Use',
     footerContent3: 'Privacy Policy',
   },
+
+  viewMoreButton: '查看更多',
 
   hero: {
     desc: 'ChainIDE 致力于全球开发者生态建设，陪伴全球开发者共同探索区块链新世界，为区块链生态带来更多流量与创新。',

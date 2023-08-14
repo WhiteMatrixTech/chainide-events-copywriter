@@ -106,24 +106,24 @@ export const events_homepage = {
     workshopSeminarContent: 'ChainIDE的研讨会致力于向公众普及区块链的深层理论和技术知识，与行业内部专家讨论区块链的发展趋势，推动区块链生态系统的创新和发展。',
     workshopSeminarList: [
       {
-        image: 'https://media.chainide.com/events/seminar/SurvivalGuild.png',
-        title: 'Survival Guide for Web3 Immigrants Webinar',
-        content: 'Survival Guide for Web3 Immigrants网络研讨会邀请了香港中文大学（深圳）教授蔡玮、ChainIDE海外社区经理Ali以及RSS3社区经理Ping分享他们对Web3世界的探索与思考。',
+        image: 'https://media.chainide.com/events/seminar/Web3LeanonDev-Meet.png',
+        title: 'Web3 Lebanon Dev-Meet',
+        content: 'Web3 Lebanon Dev-Meet旨在汇集黎巴嫩的Web3开发者，为他们提供一个交流和相互支持的平台。',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/GlobalMetaverseAndNFT.png',
-        title: 'Global Metaverse and NFT Webinar',
-        content: '2022 Global Metaverse and NFT Webinar聚焦于Metaverse、NFT、Defi等多个话题的学术讨论，邀请了纽约大学Marc Beckman教授、加拿大英属哥伦比亚大学王泽华教授以及纯白矩阵CEO吴啸共同探讨相关课题。',
+        image: 'https://media.chainide.com/events/seminar/EthNanjingMeetup.png',
+        title: 'Eth Nanjing Meetup',
+        content: 'Eth Nanjing Meetup旨在聚集来自南京及其周边地区的区块链爱好者，共同探讨Web3生态系统的未来。',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/PakistaniCommunity.png',
-        title: 'Everything you need to know about NFT Webinar — Pakistani Community',
-        content: '以“关于 NFT 你需要知道的一切”为主题的巴基斯坦社区网络研讨会于2021.08.25举行，超过200名巴基斯坦区块链爱好者参加了此次研讨会，现场讨论氛围热烈。',
+        image: 'https://media.chainide.com/events/seminar/Web3BuilderMixer-EP4.png',
+        title: 'Web3 Builder Mixer-EP4',
+        content: 'Web3构建者交流会之与WTF Academy和ETH Belgrade合作。',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/BMDS.png',
-        title: 'Blockchain and Multimedia Data Science (BMDS) Webinar',
-        content: '2021BMDS区块链多媒体数据科学网络研讨会由阿尔伯塔大学与南京纯白矩阵科技有限公司联合主办，主要围绕区块链与数据科学领域的交叉融合进行深度探讨。',
+        image: 'https://media.chainide.com/events/seminar/ChainIDEWorkshopEP2.png',
+        title: 'ChainIDE workshop EP2',
+        content: 'ChainIDE workshop EP2旨在介绍LLMs的背景，并为ChainIDE用户演示如何使用Code Sage功能来帮助优化他们的工作。',
       },
     ],
 

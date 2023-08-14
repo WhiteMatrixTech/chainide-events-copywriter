@@ -107,24 +107,24 @@ export const events_homepage = {
     workshopSeminarContent: 'The seminars are dedicated to popularizing the deep theoretical and technical knowledge of blockchain for the public, discussing the development trend of blockchain with industry insiders, and promoting the innovation and development of the blockchain ecosystem.',
     workshopSeminarList: [
       {
-        image: 'https://media.chainide.com/events/seminar/SurvivalGuild.png',
-        title: 'Survival Guide for Web3 Immigrants Webinar',
-        content: 'The Survival Guide for Web3 Immigrants webinar invited Assistant Professor Cai Wei from the Chinese Hong Kong University (Shenzhen), Ali, Overseas Community Manager of ChainIDE and Ping, Community Manager of RSS3. During the seminar they shared their exploration and thoughts on the world of Web3.',
+        image: 'https://media.chainide.com/events/seminar/Web3LeanonDev-Meet.png',
+        title: 'Web3 Lebanon Dev-Meet',
+        content: 'Web3 Lebanon Dev-Meet aims to bring together web3 developers in Lebanon, providing a platform for networking and mutual support.',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/GlobalMetaverseAndNFT.png',
-        title: 'Global Metaverse and NFT Webinar',
-        content: '2022 Global Metaverse and NFT Webinar focused on academic discussions on Metaverse, NFT, Defi and other topics, and invited Professor Marc Beckman from New York University, Professor Wang Zehua from the University of British Columbia in Canada, and Wu Xiao, CEO Pure White Matrix, to discuss related topics together.',
+        image: 'https://media.chainide.com/events/seminar/EthNanjingMeetup.png',
+        title: 'Eth Nanjing Meetup',
+        content: 'Gathering blockchain enthusiasts from Nanjing and its surrounding areas to convene and engage in a comprehensive exploration of the future of the Web3 ecosystem.',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/PakistaniCommunity.png',
-        title: 'Everything you need to know about NFT Webinar — Pakistani Community',
-        content: 'The Pakistani Community Webinar with the theme of "Everything You Need to Know About NFTs" was held on 2021.08.25. More than 200 Pakistani blockchain enthusiasts participated in the seminar, and the discussion was lively.',
+        image: 'https://media.chainide.com/events/seminar/Web3BuilderMixer-EP4.png',
+        title: 'Web3 Builder Mixer-EP4',
+        content: 'Web3 Builder Mixer Episode 4 with WTF Academy and ETH Belgrade',
       },
       {
-        image: 'https://media.chainide.com/events/seminar/BMDS.png',
-        title: 'Blockchain and Multimedia Data Science (BMDS) Webinar',
-        content: 'The 2021 BMDS Blockchain Multimedia Data Science Webinar is co-hosted by the University of Alberta and Nanjing Pure White Matrix Technology Co., Ltd., focusing on in-depth discussions on the intersection of blockchain and data science.',
+        image: 'https://media.chainide.com/events/seminar/ChainIDEWorkshopEP2.png',
+        title: 'ChainIDE workshop EP2',
+        content: 'This workshop aims to introduce the background of LLMs and teach ChainIDE users how to use Code Sage functionalities to help optimize their work.',
       },
     ],
 

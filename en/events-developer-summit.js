@@ -5,6 +5,8 @@ export const events_developer_summit = {
   upcoming_events_image: 'https://media.chainide.com/events/previousActivities/eth-riyadh-2023.png',
   upcoming_events_title: 'ETH Riyadh 2023',
   upcoming_events_content: 'Eth Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future. ',
+  upcoming_events_link: '',
+  upcoming_events_luma_link: '',
 
   previousActivitiesTitle: 'Previous Activities',
 

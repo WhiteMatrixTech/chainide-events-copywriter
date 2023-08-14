@@ -64,6 +64,7 @@ export const zh = {
           {
             name: 'Build',
             link: '',
+            isTitle: true,
           },
           {
             name: 'Studio',

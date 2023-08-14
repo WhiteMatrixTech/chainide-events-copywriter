@@ -64,6 +64,7 @@ export const en = {
           {
             name: 'Build',
             link: '',
+            isTitle: true,
           },
           {
             name: 'Studio',

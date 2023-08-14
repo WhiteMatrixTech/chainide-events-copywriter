@@ -156,6 +156,135 @@ export const events_homepage = {
 
   starProjects: {
     startProjectsTitle: 'Star Projects',
+
+    startProjectList: [
+      {
+        title: 'Matrix World',
+        cover: 'https://media.chainide.com/events/projects/matrixworld.png',
+        link: 'https://matrixworld.org/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: 'Features',
+            content: 'turing-complete metaverse',
+          },
+          {
+            title: 'Partners',
+            content: 'Flow, Opensea, Rarible...',
+          },
+          {
+            title: 'Primary market sales',
+            content: '$8M+',
+          },
+        ],
+      },
+      {
+        title: 'ChainIDE',
+        cover: 'https://media.chainide.com/events/projects/chainide.png',
+        link: 'https://chainide.com/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: 'Multichain',
+            content: 'Ethereum、BNB Chain..',
+          },
+          {
+            title: 'Partners',
+            content: 'AWS, Mask,Alibaba...',
+          },
+          {
+            title: 'Strength',
+            content: 'a cloud-based multi-chain IDE',
+          },
+        ],
+      },
+      {
+        title: 'Matrix Market ',
+        cover: 'https://media.chainide.com/events/projects/matrixmarket.png',
+        link: 'https://matrixmarket.xyz/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: 'Blockchain',
+            content: 'Flow',
+          },
+          {
+            title: 'Partners',
+            content: 'creators, collectors and traders',
+          },
+          {
+            title: 'Strength',
+            content: 'user-centric first principle',
+          },
+        ],
+      },
+      {
+        title: 'Phanta Bear',
+        cover: 'https://media.chainide.com/events/projects/ezek.png',
+        link: 'https://ezek.io/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: "Asia's PFP NFT project ranking",
+            content: 'No.1',
+          },
+          {
+            title: 'Primary market sales',
+            content: '$9.6M+',
+          },
+          {
+            title: 'First-week trading volume',
+            content: '20K+',
+          },
+        ],
+      },
+      {
+        title: 'Theirsverse',
+        cover: 'https://media.chainide.com/events/projects/theirverse.png',
+        link: 'https://theirsverse.com/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: 'Artists',
+            content: 'over the world',
+          },
+          {
+            title: 'Concept',
+            content: 'reach beyond&embrace differences',
+          },
+          {
+            title: 'Total trading volume',
+            content: '1.2K+',
+          },
+        ],
+      },
+      {
+        title: 'Rivermen',
+        cover: 'https://media.chainide.com/events/projects/rivermen.png',
+        link: 'https://rivermen.io/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: '1h burn leaderboard of USM',
+            content: 'No.1 ',
+          },
+          {
+            title: 'Primary market sales',
+            content: '400+',
+          },
+          {
+            title: 'Total trading volume',
+            content: '20K+',
+          },
+        ],
+      },
+    ],
   },
 
   keyStrengths: {

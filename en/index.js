@@ -22,11 +22,11 @@ export const en = {
     footerMediaList: [
       {
         name: 'medium',
-        link: '',
+        link: 'https://medium.com/white-matrix',
       },
       {
         name: 'github',
-        link: '',
+        link: 'https://github.com/WhiteMatrixTech',
       },
       {
         name: 'facebook',
@@ -34,19 +34,19 @@ export const en = {
       },
       {
         name: 'twitter',
-        link: '',
+        link: 'https://twitter.com/ChainIDE',
       },
       {
         name: 'telegram',
-        link: '',
+        link: 'https://t.me/ChainIDEdevelopers',
       },
       {
         name: 'youtube',
-        link: '',
+        link: 'https://www.youtube.com/@ChainIDE ',
       },
       {
         name: 'discord',
-        link: '',
+        link: 'https://discord.com/invite/FSHpYzmNnm ',
       },
     ],
     footerList: [

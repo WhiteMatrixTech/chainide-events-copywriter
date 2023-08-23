@@ -54,7 +54,7 @@ export const events_developer_summit = {
       title: 'Eth Shanghai 2022',
       date: '2022.5.20',
       content: '在以太坊基金会的赞助和支持下，Eth Shanghai致力于推动并鼓励更多的开发者加入全球Web3社区。该峰会邀请智者和开发者就Web 3.0的全球合作、以太坊2.0、去中心化互联网、NFT艺术和哲学等问题进行交流。',
-      homepage: 'https://www.ethshanghai.org/zh',
+      homepage: 'https://2022.ethshanghai.org/zh',
       twitter: 'https://twitter.com/ETHDubaiConf',
       medium: 'https://medium.com/white-matrix/eth-shanghai-be1bdaaa1027',
       youtube: 'https://www.youtube.com/watch?v=8l67wJ3Wcbc',

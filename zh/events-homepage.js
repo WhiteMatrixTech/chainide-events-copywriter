@@ -2,6 +2,7 @@ export const events_homepage = {
   firstScreen: {
     title: '引领3000万编程者探索Web3开发的未来',
     joinUsButton: '加入我们',
+    joinUsButtonLink: 'https://docs.google.com/forms/d/1vVt7wPhfMGmX2xVSWTCFbXY1MS9euFPj-3NUgrV5e_U/viewform?edit_requested=true',
 
     dataList: [
       {

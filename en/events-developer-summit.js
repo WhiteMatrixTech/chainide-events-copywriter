@@ -54,7 +54,7 @@ export const events_developer_summit = {
       title: 'Eth Shanghai 2022',
       date: '2022.5.20',
       content: 'Sponsored and supported by Ethereum Foundation, ETH Shanghai is committed to promoting and encouraging more developers to join the global Web3 community. The summit invites intellectuals and developers to exchange opinions on Web 3.0 global collaboration, Ethereum 2.0, decentralized Internet, NFT arts, and philosophy.',
-      homepage: 'https://www.ethshanghai.org/zh',
+      homepage: 'https://2022.ethshanghai.org/zh',
       twitter: 'https://twitter.com/ETHDubaiConf',
       medium: 'https://medium.com/white-matrix/eth-shanghai-be1bdaaa1027',
       youtube: 'https://www.youtube.com/watch?v=8l67wJ3Wcbc',

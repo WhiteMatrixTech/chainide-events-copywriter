@@ -28,7 +28,7 @@ export const events_bootcamp = {
       content: 'Hydra Developer Bootcamp活动致力于为“一带一路”非洲国家开发者们搭建高质、纯粹的培训平台，为非洲国家培训一批懂技术懂开发的实用型区块链行业人才。',
       homepage: 'https://labs.confluxnetwork.org/',
       telegram: 'https://t.me/ChainIDEAfrica',
-      youtube: '',
+      youtube: 'https://www.youtube.com/watch?v=DwZ6tMHZ-4M&list=PLF4DmhWohTp9Qre4QQrJ-HX2kPoBVymxx',
     },
     {
       image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',
@@ -44,9 +44,9 @@ export const events_bootcamp = {
       title: 'Web3 Gaming Bootcamp',
       date: '2021.12.10 - 2022.01.14',
       content: '大咖分享、优质社区、惊喜奖项、极客挑战 尽在Web3 Gaming Bootcamp，我们期待为开发者社区生态激发出别样的活力！',
-      homepage: '',
-      telegram: '',
-      youtube: 'https://space.bilibili.com/2021302173/channel/seriesdetail?sid=638876',
+      wechat: 'https://mp.weixin.qq.com/s/Gom50qZrwK-T7emSR-eJgQ',
+      bilibili: 'https://space.bilibili.com/2021302173/channel/seriesdetail?sid=638876',
+      github: 'https://github.com/Polygon-Academy/Web3GamingBootcamp_CN/tree/master/projects',
     },
     {
       image: 'https://media.chainide.com/events/bootcamp/GlobalMetaverseBootcamp.png',
@@ -54,7 +54,7 @@ export const events_bootcamp = {
       date: '2021.11.20 - 2021.12.23',
       content: 'Global Metaverse Bootcamp为全球开发者打造区块链交流学习平台，搭建沟通桥梁，进一步拓展全球开发者生态。',
       homepage: 'https://globalmetabootcamp.chainide.com/',
-      telegram: '',
+      telegram: 'https://t.me/gmbcamp',
       youtube: 'https://www.youtube.com/watch?v=rpeK0c1F-gQ&list=PLF4DmhWohTp9HX4H_zyVc12Kvk2EEQIcu',
     },
     {

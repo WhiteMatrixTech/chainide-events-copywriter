@@ -45,7 +45,7 @@ export const events_bootcamp = {
       content: 'Industry experts sharing, high-quality community, surprise awards, and geek challenges are gathering together at Web3 Gaming Bootcamp. We look forward to inspiring a different kind of vitality for the developer community ecosystem!',
       homepage: '',
       telegram: '',
-      youtube: 'https://space.bilibili.com/2021302173/channel/seriesdetail?sid=638876',
+      github: 'https://github.com/Polygon-Academy/Web3GamingBootcamp_CN/tree/master/projects',
     },
     {
       image: 'https://media.chainide.com/events/bootcamp/GlobalMetaverseBootcamp.png',
@@ -53,7 +53,7 @@ export const events_bootcamp = {
       date: '2021.11.20 - 2021.12.23',
       content: 'Global Metaverse Bootcamp created a blockchain exchange and learning platform for global developers, build a bridge of communication, and further expanded the global developer ecosystem.',
       homepage: 'https://globalmetabootcamp.chainide.com/',
-      telegram: '',
+      telegram: 'https://t.me/gmbcamp',
       youtube: 'https://www.youtube.com/watch?v=rpeK0c1F-gQ&list=PLF4DmhWohTp9HX4H_zyVc12Kvk2EEQIcu',
     },
     {

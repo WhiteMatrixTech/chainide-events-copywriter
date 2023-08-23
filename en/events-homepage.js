@@ -239,6 +239,7 @@ export const events_homepage = {
           {
             title: 'First-week trading volume',
             content: '20K+',
+            ethIcon: true,
           },
         ],
       },
@@ -260,6 +261,7 @@ export const events_homepage = {
           {
             title: 'Total trading volume',
             content: '1.2K+',
+            ethIcon: true,
           },
         ],
       },
@@ -267,6 +269,29 @@ export const events_homepage = {
         title: 'Rivermen',
         cover: 'https://media.chainide.com/events/projects/rivermen.png',
         link: 'https://rivermen.io/',
+        icon: '',
+        bgColor: '#0E1233CC',
+        contentList: [
+          {
+            title: '1h burn leaderboard of USM',
+            content: 'No.1 ',
+          },
+          {
+            title: 'Primary market sales',
+            content: '400+',
+            ethIcon: true,
+          },
+          {
+            title: 'Total trading volume',
+            content: '20K+',
+            ethIcon: true,
+          },
+        ],
+      },
+      {
+        title: 'GrandLineDao',
+        cover: 'https://media.chainide.com/events/projects/grandLineDao.png',
+        link: 'https://grandlinedao.xyz/',
         icon: '',
         bgColor: '#0E1233CC',
         contentList: [
@@ -314,7 +339,7 @@ export const events_homepage = {
   },
 
   youWillGet: {
-    youWillGetTitle: '明星项目',
+    youWillGetTitle: 'You Will Get',
 
     youWillGetList: [
       {

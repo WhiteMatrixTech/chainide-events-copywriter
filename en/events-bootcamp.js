@@ -27,7 +27,7 @@ export const events_bootcamp = {
       content: 'The Hydra Developer Bootcamp event was committed to building a high-quality and pure training platform for developers in the "Belt and Road" African countries, and training a group of practical blockchain industry talents who understand technology and development for African countries.',
       homepage: 'https://labs.confluxnetwork.org/',
       telegram: 'https://t.me/ChainIDEAfrica',
-      youtube: '',
+      youtube: 'https://www.youtube.com/watch?v=DwZ6tMHZ-4M&list=PLF4DmhWohTp9Qre4QQrJ-HX2kPoBVymxx',
     },
     {
       image: 'https://media.chainide.com/events/bootcamp/BscDeveloperBootcamp.png',

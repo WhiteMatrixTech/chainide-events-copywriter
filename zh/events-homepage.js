@@ -160,7 +160,7 @@ export const events_homepage = {
         title: 'Matrix World',
         cover: 'https://media.chainide.com/events/projects/matrixworld.png',
         link: 'https://matrixworld.org/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/matrixworld-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -181,7 +181,7 @@ export const events_homepage = {
         title: 'ChainIDE',
         cover: 'https://media.chainide.com/events/projects/chainide.png',
         link: 'https://chainide.com/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/chainide-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -202,7 +202,7 @@ export const events_homepage = {
         title: 'Matrix Market ',
         cover: 'https://media.chainide.com/events/projects/matrixmarket.png',
         link: 'https://matrixmarket.xyz/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/matrixmarket-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -223,7 +223,7 @@ export const events_homepage = {
         title: 'Phanta Bear',
         cover: 'https://media.chainide.com/events/projects/ezek.png',
         link: 'https://ezek.io/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/phantabear-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -245,7 +245,7 @@ export const events_homepage = {
         title: 'Theirsverse',
         cover: 'https://media.chainide.com/events/projects/theirverse.png',
         link: 'https://theirsverse.com/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/theirsverse-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -267,7 +267,7 @@ export const events_homepage = {
         title: 'Rivermen',
         cover: 'https://media.chainide.com/events/projects/rivermen.png',
         link: 'https://rivermen.io/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/riverman-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {
@@ -290,7 +290,7 @@ export const events_homepage = {
         title: 'GrandLineDao',
         cover: 'https://media.chainide.com/events/projects/grandLineDao.png',
         link: 'https://grandlinedao.xyz/',
-        icon: '',
+        icon: 'https://media.chainide.com/events/projects/grandlinedao-logo.svg',
         bgColor: '#0E1233CC',
         contentList: [
           {

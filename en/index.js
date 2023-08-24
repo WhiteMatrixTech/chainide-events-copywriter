@@ -30,7 +30,7 @@ export const en = {
       },
       {
         name: 'facebook',
-        link: '',
+        link: 'https://www.facebook.com/MatrixDapp/',
       },
       {
         name: 'twitter',

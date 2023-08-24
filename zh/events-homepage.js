@@ -232,11 +232,11 @@ export const events_homepage = {
             content: 'No.1',
           },
           {
-            title: 'Primary market sales',
+            title: '一级市场销售额',
             content: '$9.6M+',
           },
           {
-            title: 'First-week trading volume',
+            title: '第一周交易量',
             content: '20K+',
             ethIcon: true,
           },
@@ -250,15 +250,15 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Artists',
-            content: 'over the world',
+            title: '创作家',
+            content: '来自全球各地',
           },
           {
-            title: 'Concept',
-            content: 'reach beyond&embrace differences',
+            title: '理念',
+            content: '跨过分歧，拥抱不同',
           },
           {
-            title: 'Total trading volume',
+            title: '市场总交易额',
             content: '1.2K+',
             ethIcon: true,
           },

@@ -211,12 +211,12 @@ export const events_homepage = {
             content: 'Flow',
           },
           {
-            title: 'Partners',
-            content: 'creators, collectors and traders',
+            title: '合作伙伴',
+            content: '创作者、收藏家和交易者',
           },
           {
-            title: 'Strength',
-            content: 'user-centric first principle',
+            title: '优势',
+            content: '以用户为第一原则',
           },
         ],
       },
@@ -228,7 +228,7 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: "Asia's PFP NFT project ranking",
+            title: "亚洲PFP NFT项目排名",
             content: 'No.1',
           },
           {

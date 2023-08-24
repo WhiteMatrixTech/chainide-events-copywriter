@@ -33,11 +33,11 @@ export const events_homepage = {
     upcomingEventsList: [
       {
         title: 'ETH Riyadh 2023',
-        content: 'Eth Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future.',
-        tabContent: 'Develop summit',
+        content: 'Eth Riyadh 2023是一个专注于以太坊的重要Web3峰会，旨在汇集来自沙特阿拉伯王国和其他中东地区的开发者和构建者。EthRiyadh 强调以太坊生态系统，旨在提供行业专家的见解，并参与有关区块链未来的讨论。',
+        tabContent: '开发者峰会',
         tabColor: '#3BA1FF',
-        date: '2023.10.7-2023.10.11',
-        sites: 'Singapore',
+        date: '2023.9.18-2023.10.16',
+        sites: '利雅得',
         image: 'https://media.chainide.com/events/riyadh-summit.png',
       },
       {

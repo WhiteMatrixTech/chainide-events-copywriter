@@ -342,7 +342,7 @@ export const events_homepage = {
     youWillGetList: [
       {
         image: 'https://media.chainide.com/events/youWillGet-image-1.png',
-        title: '进入顶级资本风险投资的机会',
+        title: '获得顶级资本风险投资的机会',
         content: 'ChainIDE已与领先的风险投资公司建立了稳固的合作关系，使我们的开发者能够获得一流的投资机会。',
       },
       {

@@ -186,16 +186,16 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Multichain',
+            title: '多链',
             content: 'Ethereum、BNB Chain..',
           },
           {
-            title: 'Partners',
+            title: '合作伙伴',
             content: 'AWS, Mask,Alibaba...',
           },
           {
-            title: 'Strength',
-            content: 'a cloud-based multi-chain IDE',
+            title: '优势',
+            content: '云端多链IDE',
           },
         ],
       },
@@ -207,7 +207,7 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Blockchain',
+            title: '区块链',
             content: 'Flow',
           },
           {

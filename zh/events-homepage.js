@@ -216,7 +216,7 @@ export const events_homepage = {
           },
           {
             title: '优势',
-            content: '以用户为第一原则',
+            content: '用户第一原则',
           },
         ],
       },
@@ -272,16 +272,16 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: '1h burn leaderboard of USM',
+            title: '1小时内eth燃烧量',
             content: 'No.1 ',
           },
           {
-            title: 'Primary market sales',
+            title: '一级市场销售额',
             content: '400+',
             ethIcon: true,
           },
           {
-            title: 'Total trading volume',
+            title: '市场总交易额',
             content: '20K+',
             ethIcon: true,
           },
@@ -295,15 +295,15 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: '1h burn leaderboard of USM',
+            title: '1小时内eth燃烧量',
             content: 'No.1 ',
           },
           {
-            title: 'Primary market sales',
+            title: '一级市场销售额',
             content: '400+',
           },
           {
-            title: 'Total trading volume',
+            title: '市场总交易额',
             content: '20K+',
           },
         ],

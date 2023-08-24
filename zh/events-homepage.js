@@ -186,16 +186,16 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Multichain',
+            title: '多链',
             content: 'Ethereum、BNB Chain..',
           },
           {
-            title: 'Partners',
+            title: '合作伙伴',
             content: 'AWS, Mask,Alibaba...',
           },
           {
-            title: 'Strength',
-            content: 'a cloud-based multi-chain IDE',
+            title: '优势',
+            content: '云端多链IDE',
           },
         ],
       },
@@ -207,16 +207,16 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Blockchain',
+            title: '区块链',
             content: 'Flow',
           },
           {
-            title: 'Partners',
-            content: 'creators, collectors and traders',
+            title: '合作伙伴',
+            content: '创作者、收藏家和交易者',
           },
           {
-            title: 'Strength',
-            content: 'user-centric first principle',
+            title: '优势',
+            content: '以用户为第一原则',
           },
         ],
       },
@@ -228,15 +228,15 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: "Asia's PFP NFT project ranking",
+            title: "亚洲PFP NFT项目排名",
             content: 'No.1',
           },
           {
-            title: 'Primary market sales',
+            title: '一级市场销售额',
             content: '$9.6M+',
           },
           {
-            title: 'First-week trading volume',
+            title: '第一周交易量',
             content: '20K+',
             ethIcon: true,
           },
@@ -250,15 +250,15 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Artists',
-            content: 'over the world',
+            title: '创作家',
+            content: '来自全球各地',
           },
           {
-            title: 'Concept',
-            content: 'reach beyond&embrace differences',
+            title: '理念',
+            content: '跨过分歧，拥抱不同',
           },
           {
-            title: 'Total trading volume',
+            title: '市场总交易额',
             content: '1.2K+',
             ethIcon: true,
           },

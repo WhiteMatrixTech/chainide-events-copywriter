@@ -47,7 +47,7 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: 'Online',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: 'https://media.chainide.com/events/Web3BuilderMixer-EP5.png',
       },
       {
         title: 'ChainIDE Workshop EP3',
@@ -56,7 +56,7 @@ export const events_homepage = {
         tabColor: '#3BA1FF',
         date: 'TBD',
         sites: 'Online',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',
       },
     ],
 

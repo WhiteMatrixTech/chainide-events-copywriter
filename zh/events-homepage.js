@@ -47,16 +47,16 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: '线上',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: 'https://media.chainide.com/events/Web3BuilderMixer-EP5.png',
       },
       {
-        title: '3. ChainIDE Workshop EP3',
+        title: 'ChainIDE Workshop EP3',
         content: 'Code Sage功能升级之引入“代码生成”函数',
         tabContent: '开发者峰会',
         tabColor: '#3BA1FF',
         date: 'TBD',
         sites: '线上',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',
       },
     ],
 
@@ -228,7 +228,7 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: "亚洲PFP NFT项目排名",
+            title: '亚洲PFP NFT项目排名',
             content: 'No.1',
           },
           {

@@ -44,7 +44,7 @@ export const events_bootcamp = {
       title: 'Web3 Gaming Bootcamp',
       date: '2021.12.10 - 2022.01.14',
       content: '大咖分享、优质社区、惊喜奖项、极客挑战 尽在Web3 Gaming Bootcamp，我们期待为开发者社区生态激发出别样的活力！',
-      wechat: 'https://mp.weixin.qq.com/s/Gom50qZrwK-T7emSR-eJgQ',
+      weChat: 'https://mp.weixin.qq.com/s/Gom50qZrwK-T7emSR-eJgQ',
       bilibili: 'https://space.bilibili.com/2021302173/channel/seriesdetail?sid=638876',
       github: 'https://github.com/Polygon-Academy/Web3GamingBootcamp_CN/tree/master/projects',
     },

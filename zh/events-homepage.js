@@ -165,15 +165,15 @@ export const events_homepage = {
         bgColor: '#0E1233CC',
         contentList: [
           {
-            title: 'Features',
-            content: 'turing-complete metaverse',
+            title: '特征',
+            content: '图灵完备的元宇宙',
           },
           {
-            title: 'Partners',
+            title: '合作伙伴',
             content: 'Flow, Opensea, Rarible...',
           },
           {
-            title: 'Primary market sales',
+            title: '一级市场销售额',
             content: '$8M+',
           },
         ],

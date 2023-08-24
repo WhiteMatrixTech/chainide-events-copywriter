@@ -43,7 +43,7 @@ export const events_homepage = {
       {
         title: 'Web3 Builder Mixer - EP5',
         content: '“Web3 builder Mixer”是一个令人兴奋的平台，旨在鼓励和支持Web3生态系统的增长，促进本地开发者之间的合作、创新和知识共享',
-        tabContent: '集训营',
+        tabContent: '研讨会',
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: '线上',
@@ -52,7 +52,7 @@ export const events_homepage = {
       {
         title: 'ChainIDE Workshop EP3',
         content: 'Code Sage功能升级之引入“代码生成”函数',
-        tabContent: '开发者峰会',
+        tabContent: '研讨会',
         tabColor: '#3BA1FF',
         date: 'TBD',
         sites: '线上',

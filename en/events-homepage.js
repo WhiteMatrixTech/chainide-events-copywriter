@@ -345,7 +345,7 @@ export const events_homepage = {
     youWillGetList: [
       {
         image: 'https://media.chainide.com/events/youWillGet-image-1.png',
-        title: 'Providing Access to Top-rated Capital Ventures',
+        title: 'Access to Top-rated Capital Ventures',
         content: 'ChainIDE has forged a robust collaboration with leading venture capital firms, enabling our developers to gain access to premier investment opportunities.',
       },
       {

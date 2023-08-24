@@ -45,7 +45,7 @@ export const events_homepage = {
         content: '"Web3 builder Mixer" is an exciting platform that seeks to inspire and support the growth of the Web3 ecosystem to foster collaboration, innovation, and knowledge-sharing among local developers.',
         tabContent: 'Bootcamp',
         tabColor: '#EC6DA5',
-        date: 'Feb 20, 2023 - Jun 1, 2023',
+        date: 'TBD',
         sites: 'Online',
         image: 'https://media.chainide.com/events/riyadh-summit.png',
       },

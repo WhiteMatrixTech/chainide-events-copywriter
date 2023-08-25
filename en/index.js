@@ -81,23 +81,23 @@ export const en = {
         contentList: [
           {
             name: 'Bootcamp',
-            link: `${window.location.origin}/events/bootcamp`,
+            link: `/events/bootcamp`,
           },
           {
             name: 'Hackathon',
-            link: `${window.location.origin}/events/hackathon`,
+            link: `/events/hackathon`,
           },
           {
             name: 'Workshop',
-            link: `${window.location.origin}/events/workshop-seminar`,
+            link: `/events/workshop-seminar`,
           },
           {
             name: 'Seminar',
-            link: `${window.location.origin}/events/workshop-seminar`,
+            link: `/events/workshop-seminar`,
           },
           {
             name: 'Summit',
-            link: `${window.location.origin}/events/developer-summit`,
+            link: `/events/developer-summit`,
           },
         ],
       },

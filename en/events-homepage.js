@@ -53,7 +53,7 @@ export const events_homepage = {
         title: 'ChainIDE Workshop EP3',
         content: 'Code Sage Functionality Update - Introducing function "Code Generation".',
         tabContent: 'Workshop',
-        tabColor: '#3BA1FF',
+        tabColor: '#EC6DA5',
         date: 'TBD',
         sites: 'Online',
         image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',

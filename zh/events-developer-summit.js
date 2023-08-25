@@ -4,7 +4,7 @@ export const events_developer_summit = {
 
   upcoming_events_image: 'https://media.chainide.com/events/previousActivities/eth-riyadh-2023.png',
   upcoming_events_title: 'ETH Riyadh 2023',
-  upcoming_events_content: 'Eth Riyadh 2023是一个专注于以太坊的重要Web3峰会，旨在汇集来自沙特阿拉伯王国和其他中东地区的开发者和构建者。EthRiyadh 强调以太坊生态系统，旨在提供行业专家的见解，并参与有关区块链未来的讨论。',
+  upcoming_events_content: 'ETH Riyadh 2023是一个专注于以太坊的重要Web3峰会，旨在汇集来自沙特阿拉伯王国和其他中东地区的开发者和构建者。EthRiyadh 强调以太坊生态系统，旨在提供行业专家的见解，并参与有关区块链未来的讨论。',
   upcoming_events_luma_link: 'https://ethriyadh.com/',
 
   previousActivitiesTitle: '已举办的活动',

@@ -2,7 +2,7 @@ export const events_developer_summit = {
   events_developer_summit_title: 'Developer Summit',
   events_developer_summit_content: 'These summits and conferences unite our team members with developers, professionals, and industry leaders representing diverse sectors and domains. They actively participate in discussions alongside the foremost thought leaders in the global tech industry, imparting their distinctive insights and experiences within their respective areas of expertise.',
 
-  upcoming_events_image: 'https://media.chainide.com/events/previousActivities/eth-riyadh-2023.png',
+  upcoming_events_image: 'https://media.chainide.com/events/riyadh-summit.png',
   upcoming_events_title: 'ETH Riyadh 2023',
   upcoming_events_content: 'Eth Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future. ',
   upcoming_events_luma_link: 'https://ethriyadh.com/',

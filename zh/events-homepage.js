@@ -53,7 +53,7 @@ export const events_homepage = {
         title: 'ChainIDE Workshop EP3',
         content: 'Code Sage功能升级之引入“代码生成”函数',
         tabContent: '研讨会',
-        tabColor: '#3BA1FF',
+        tabColor: '#EC6DA5',
         date: 'TBD',
         sites: '线上',
         image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',

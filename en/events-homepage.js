@@ -1,6 +1,6 @@
 export const events_homepage = {
   firstScreen: {
-    title: 'Bringing Web3 Development to the next 30 million coders',
+    title: 'Bringing Web3 Development to the Next 30 Million Coders',
     joinUsButton: 'Join Us',
     joinUsButtonLink: 'https://docs.google.com/forms/d/1vVt7wPhfMGmX2xVSWTCFbXY1MS9euFPj-3NUgrV5e_U/viewform?edit_requested=true',
 

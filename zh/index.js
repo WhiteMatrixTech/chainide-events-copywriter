@@ -51,61 +51,61 @@ export const zh = {
     ],
     footerList: [
       {
-        title: 'Learn',
+        title: '学习',
         contentList: [
           {
-            name: 'Tutorial',
-            link: '',
+            name: '教育',
+            link: 'https://edu.chainide.com/',
           },
           {
-            name: 'Course',
-            link: '',
+            name: '课程',
+            link: 'https://edu.chainide.com/courses',
           },
           {
-            name: 'Build',
+            name: '构建',
             link: '',
             isTitle: true,
           },
           {
-            name: 'Studio',
+            name: '云端IDE',
             link: 'https://chainide.com',
           },
           {
-            name: 'Extensions',
+            name: '插件市场',
             link: '',
           },
         ],
       },
       {
-        title: 'Events',
+        title: '生态',
         contentList: [
           {
-            name: 'Bootcamp',
+            name: '活动',
+            link: `/events/`,
+          },
+          {
+            name: '训练营',
             link: `/events/bootcamp`,
           },
           {
-            name: 'Hackathon',
+            name: '黑客松',
             link: `/events/hackathon`,
           },
           {
-            name: 'Workshop',
+            name: '研讨会',
             link: `/events/workshop-seminar`,
           },
           {
-            name: 'Seminar',
-            link: `/events/workshop-seminar`,
-          },
-          {
-            name: 'Summit',
+            name: '峰会',
             link: `/events/developer-summit`,
           },
         ],
       },
       {
-        title: 'Community',
+        title: '社区',
         contentList: [
           {
-            name: 'Forum',
+            name: '论坛',
             link: 'https://forum.chainide.com/',
           },
           {
@@ -127,40 +127,40 @@ export const zh = {
         ],
       },
       {
-        title: 'Resources',
+        title: '资源',
         contentList: [
           {
-            name: 'Blog',
+            name: '博客',
             link: 'https://medium.com/white-matrix',
           },
           {
-            name: 'Guides',
+            name: '指南',
             link: 'https://chainide.gitbook.io/chainide-chinese/chainide/1.-ethereum-ide',
           },
           {
-            name: 'Docs',
+            name: '文档',
             link: 'https://chainide.gitbook.io/chainide-english-1/',
           },
           {
-            name: 'Videos',
+            name: '视频',
             link: 'https://www.youtube.com/channel/UCgvPUHayWfxAGiJCI2xOzNg',
           },
           {
-            name: 'Open Source Code',
+            name: '开源代码',
             link: 'https://github.com/WhiteMatrixTech',
           },
         ],
       },
       {
-        title: 'Company',
+        title: '公司简介',
         contentList: [
           {
-            name: 'About Us',
+            name: '关于我们',
             link: 'https://whitematrix.io/?lang=en',
           },
           {
-            name: 'Contact Us',
-            link: '',
+            name: '联系我们',
+            link: 'https://t.me/ChainIDEdevelopers',
           },
         ],
       },
@@ -168,8 +168,8 @@ export const zh = {
 
     footerContent1: '© 2023 White Matrix Ltd. | All rights reserved',
 
-    footerContent2: 'Terms of Use',
-    footerContent3: 'Privacy Policy',
+    footerContent2: '服务条款',
+    footerContent3: '隐私政策',
   },
 
   viewMoreButton: '查看更多',

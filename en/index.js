@@ -54,12 +54,12 @@ export const en = {
         title: 'Learn',
         contentList: [
           {
-            name: 'Tutorial',
-            link: '',
+            name: 'Eduction',
+            link: 'https://edu.chainide.com/',
           },
           {
-            name: 'Course',
-            link: '',
+            name: 'Courses',
+            link: 'https://edu.chainide.com/courses',
           },
           {
             name: 'Build',
@@ -77,8 +77,12 @@ export const en = {
         ],
       },
       {
-        title: 'Events',
+        title: 'Ecosystem',
         contentList: [
+          {
+            name: 'Events',
+            link: `/events/`,
+          },
           {
             name: 'Bootcamp',
             link: `/events/bootcamp`,
@@ -89,10 +93,6 @@ export const en = {
           },
           {
             name: 'Workshop',
-            link: `/events/workshop-seminar`,
-          },
-          {
-            name: 'Seminar',
             link: `/events/workshop-seminar`,
           },
           {
@@ -168,7 +168,7 @@ export const en = {
 
     footerContent1: '© 2023 White Matrix Ltd. | All rights reserved',
 
-    footerContent2: 'Terms of Use',
+    footerContent2: 'Terms of Service',
     footerContent3: 'Privacy Policy',
   },
 

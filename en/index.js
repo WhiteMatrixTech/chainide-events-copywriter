@@ -55,7 +55,7 @@ export const en = {
         contentList: [
           {
             name: 'Eduction',
-            link: 'https://edu-2.chainide.com/',
+            link: 'https://edu.chainide.com/',
           },
           {
             name: 'Courses',

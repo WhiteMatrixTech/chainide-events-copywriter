@@ -33,30 +33,36 @@ export const events_homepage = {
     upcomingEventsList: [
       {
         title: 'ETH Riyadh 2023',
+        link: "https://ethriyadh.com/",
+        isHot: true,
         content: 'ETH Riyadh 2023是一个专注于以太坊的重要Web3峰会，旨在汇集来自沙特阿拉伯王国和其他中东地区的开发者和构建者。EthRiyadh 强调以太坊生态系统，旨在提供行业专家的见解，并参与有关区块链未来的讨论',
         tabContent: '开发者峰会',
         tabColor: '#3BA1FF',
         date: '2023.9.18-2023.10.16',
         sites: '利雅得',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: '/assets/upcoming-events/riyadh-summit.png'
       },
       {
         title: 'Web3 Builder Mixer - EP5',
+        link: "",
+        isHot: false,
         content: '“Web3 builder Mixer”是一个令人兴奋的平台，旨在鼓励和支持Web3生态系统的增长，促进本地开发者之间的合作、创新和知识共享',
         tabContent: '研讨会',
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: '线上',
-        image: 'https://media.chainide.com/events/Web3BuilderMixer-EP5.png',
+        image: '/assets/upcoming-events/Web3BuilderMixer-EP5.png'
       },
       {
         title: 'ChainIDE Workshop EP3',
+        link: "",
+        isHot: false,
         content: 'Code Sage功能升级之引入“代码生成”函数',
         tabContent: '研讨会',
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: '线上',
-        image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',
+        image: '/assets/upcoming-events/ChainIDEWorkshopEP3.png',
       },
     ],
 

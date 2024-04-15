@@ -40,7 +40,7 @@ export const events_homepage = {
         tabColor: '#219083',
         date: 'April 18th，1:30PM-5:30PM',
         sites: 'TT Lounge',
-        image: '/assets/upcoming-events/riyadh-summit.png',
+        image: '/assets/upcoming-events/byteplus_web3_fes.png',
       },
       {
         title: 'Dubai Builders Night@Token 2049 Afterparty',
@@ -51,7 +51,7 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'April 18th，8:00PM-11:00PM',
         sites: 'The Opus by Omniyat',
-        image: '/assets/upcoming-events/Web3BuilderMixer-EP5.png',
+        image: '/assets/upcoming-events/dubai_builders_night.png',
       },
       {
         title: 'University of Wollongong in Dubai Blockchain and AI Conference (BAC)',
@@ -62,7 +62,7 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'April 19th，1:30-6:30PM',
         sites: 'University of Wollongong in Dubai',
-        image: '/assets/upcoming-events/ChainIDEWorkshopEP3.png',
+        image: '/assets/upcoming-events/bacc_conf.png',
       },
     ],
 

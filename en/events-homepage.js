@@ -33,12 +33,13 @@ export const events_homepage = {
     upcomingEventsList: [
       {
         title: 'ETH Riyadh 2023',
+        link: "https://ethriyadh.com/",
         content: 'ETH Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future.',
         tabContent: 'Developer Summit',
         tabColor: '#219083',
         date: '2023.9.18-2023.10.16',
         sites: 'Hybrid',
-        image: 'https://media.chainide.com/events/riyadh-summit.png',
+        image: '/assets/upcoming-events/riyadh-summit.png',
       },
       {
         title: 'Web3 Builder Mixer - EP5',
@@ -47,7 +48,7 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: 'Online',
-        image: 'https://media.chainide.com/events/Web3BuilderMixer-EP5.png',
+        image: '/assets/upcoming-events/Web3BuilderMixer-EP5.png',
       },
       {
         title: 'ChainIDE Workshop EP3',
@@ -56,7 +57,7 @@ export const events_homepage = {
         tabColor: '#EC6DA5',
         date: 'TBD',
         sites: 'Online',
-        image: 'https://media.chainide.com/events/ChainIDEWorkshopEP3.png',
+        image: '/assets/upcoming-events/ChainIDEWorkshopEP3.png',
       },
     ],
 

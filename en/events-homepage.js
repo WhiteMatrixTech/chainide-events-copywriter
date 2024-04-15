@@ -34,6 +34,7 @@ export const events_homepage = {
       {
         title: 'ETH Riyadh 2023',
         link: "https://ethriyadh.com/",
+        isHot: true,
         content: 'ETH Riyadh 2023 is a prominent Web3 summit dedicated to Ethereum, designed to gather developers and builders from Kingdom of Saudi Arabia, and other Middle East regions. With a strong focus on the Ethereum ecosystem, Eth Riyadh aims to provide insights from industry experts, and engage in discussions around the blockchain future.',
         tabContent: 'Developer Summit',
         tabColor: '#219083',
@@ -43,6 +44,8 @@ export const events_homepage = {
       },
       {
         title: 'Web3 Builder Mixer - EP5',
+        link: "",
+        isHot: false,
         content: '"Web3 builder Mixer" is an exciting platform that seeks to inspire and support the growth of the Web3 ecosystem to foster collaboration, innovation, and knowledge-sharing among local developers.',
         tabContent: 'Seminar',
         tabColor: '#EC6DA5',
@@ -52,6 +55,8 @@ export const events_homepage = {
       },
       {
         title: 'ChainIDE Workshop EP3',
+        link: "",
+        isHot: false,
         content: 'Code Sage Functionality Update - Introducing function "Code Generation".',
         tabContent: 'Workshop',
         tabColor: '#EC6DA5',
